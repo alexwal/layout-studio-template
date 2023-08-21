@@ -8,7 +8,7 @@ Design, preview, and generate native Swift code for iOS apps. 100% UIKit.
 
 ## How to make your own app
 
-1. In GitHub, tap **`Use this template > Create a new repository`** or [**click here**](https://github.com/new?template_name=layout-studio-app&template_owner=alexwal) to create a new repository for your app.
+1. In GitHub, tap **`Use this template > Create a new repository`** or [**click here**](https://github.com/new?template_name=layout-studio-template&template_owner=alexwal) to create a new repository for your app.
     - Set the repository visibility to **`Private`** if you do not want to share your app's code with everyone on the Internet (this can always be changed in the repository settings).
 2. Open Terminal to clone the new repository onto your computer.
 3. Design your app layout in Layout Studio or preview a Gallery layout.
