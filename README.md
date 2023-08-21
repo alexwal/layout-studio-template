@@ -11,9 +11,9 @@ Design, preview, and generate native Swift code for iOS apps. 100% UIKit.
 1. In GitHub, tap **`Use this template > Create a new repository`** or [**click here**](https://github.com/new?template_name=layout-studio-template&template_owner=alexwal) to create a new repository for your app.
     - Set the repository visibility to **`Private`** if you do not want to share your app's code with everyone on the Internet (this can always be changed in the repository settings).
 2. Open Terminal to clone the new repository onto your computer.
-3. Design your app layout in Layout Studio or preview a Gallery layout.
+3. Design an app layout in Layout Studio or preview a Gallery layout.
 4. In Layout Studio, tap **`Code </>`** to generate all of your app's code files.
 5. Then, tap the **`Share`** button in Layout Studio and AirDrop the generated Swift code files to your computer.
 6. Open the Layout Studio Xcode project found in your cloned repository.
-7. Drag the generated code files under the **`Sources/`** directory in Xcode.
+7. Drag the generated code files into the **`Sources/`** directory in Xcode.
 8. In Xcode, choose a Run Destination (such as an iPhone simulator) and run your app!
